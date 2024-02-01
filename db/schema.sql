@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS collabic_db;
+CREATE DATABASE collabic_db;
